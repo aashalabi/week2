@@ -1,0 +1,74 @@
+# asset name: goldplat
+#asset_id: 149306726
+#account 1: MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI
+#account2: RS4BOHULH5ZSZTZK6SJY5BVSXDHRKLXB7BNAEFO7AERGV2EHOICAQEGUIE
+
+
+Signed transaction with txID: O4VRH76O7QJYO753J36BOHPX64XBA5ORWMXW7EAUZT5LPRVU743Q
+TXID:  O4VRH76O7QJYO753J36BOHPX64XBA5ORWMXW7EAUZT5LPRVU743Q
+Result confirmed in round: 26359947
+Transaction information: {
+    "asset-index": 149306726,
+    "confirmed-round": 26359947,
+    "pool-error": "",
+    "txn": {
+        "sig": "1KE4jeIYbzmrqJheillHAxoiR4yUaUqChcMcll6iBCRkT9mRbjnHGcQ2lsdQ5XIfFCak6VkhgmteSM3/cuoaAA==",
+        "txn": {
+            "apar": {
+                "an": "goldplat",
+                "c": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+                "f": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+                "m": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+                "r": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+                "t": 1000,
+                "un": "GOLDPLAT"
+            },
+            "fee": 1000,
+            "fv": 26359945,
+            "gen": "testnet-v1.0",
+            "gh": "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI=",
+            "lv": 26360945,
+            "snd": "MUNMWCHJSTPQNB4O74ML6EHXJBBZTFAMSRSUHVYOQFBXZL2AHA7KCKJPCI",
+            "type": "acfg"
+        }
+    }
+}
+Asset ID:  149306726
+
+
+#change manager to address: RS4BOHULH5ZSZTZK6SJY5BVSXDHRKLXB7BNAEFO7AERGV2EHOICAQEGUIE
+
+Signed transaction with txID: KU3CESFX2UFDCI6RLZY4XFLVJYO4TJOL5YJPBZHDXOAFHL7XEFEA
+TXID:  KU3CESFX2UFDCI6RLZY4XFLVJYO4TJOL5YJPBZHDXOAFHL7XEFEA
+Result confirmed in round: 26360599
+
+#opt in asset for account 2: RS4BOHULH5ZSZTZK6SJY5BVSXDHRKLXB7BNAEFO7AERGV2EHOICAQEGUIE
+Signed transaction with txID: CUPSGPHSK7IKZENZ5TAJ7TNQRGKO22TZ3MRQ2PO5CIH34FYEG5HQ
+TXID:  CUPSGPHSK7IKZENZ5TAJ7TNQRGKO22TZ3MRQ2PO5CIH34FYEG5HQ
+Result confirmed in round: 26361600
+
+#opt in is activated from teh wallet then asset transfer is executed
+
+Signed transaction with txID: VZ36MCD4MNWWL34JNR6N77IPGJ7DR2JWL4TRZAAYBSHYOAOAHDHA
+TXID:  VZ36MCD4MNWWL34JNR6N77IPGJ7DR2JWL4TRZAAYBSHYOAOAHDHA
+Result confirmed in round: 26361892
+Asset ID: 149306726
+{
+    "amount": 990,
+    "asset-id": 149306726,
+    "is-frozen": false
+}
+
+#freeze asset
+Signed transaction with txID: 44HJEOQK7RVYQRKAV3ISR7FOKGZBBT2XSH62LBYAY7TT5JOEI74Q
+TXID:  44HJEOQK7RVYQRKAV3ISR7FOKGZBBT2XSH62LBYAY7TT5JOEI74Q
+Result confirmed in round: 26362550
+Asset ID: 149306726
+{
+    "amount": 990,
+    "asset-id": 149306726,
+    "is-frozen": true
+}
+
+
+
